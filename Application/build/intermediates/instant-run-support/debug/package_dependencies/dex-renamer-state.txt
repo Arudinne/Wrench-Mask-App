@@ -1,4 +1,4 @@
-#Sat Sep 09 15:45:52 CDT 2017
+#Thu Oct 26 20:34:15 CDT 2017
 file.2=C\:\\Users\\Brand\\AndroidStudioProjects\\WrenchMaskController\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_efcd6fb7e6a1c860ebb6d74641c6c8f56e27e41e\\classes.dex
 base.2=C\:\\Users\\Brand\\AndroidStudioProjects\\WrenchMaskController\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_efcd6fb7e6a1c860ebb6d74641c6c8f56e27e41e
 file.1=C\:\\Users\\Brand\\AndroidStudioProjects\\WrenchMaskController\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_9a21abfff73415666e1793a9d0bce66af053be5a\\classes.dex
